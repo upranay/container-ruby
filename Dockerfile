@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER ManageIQ https://github.com/ManageIQ/container-ruby
+MAINTAINER upranay https://github.com/upranay/container-ruby
 
 ## For ruby
 ENV RUBY_GEMS_ROOT=/usr/local/lib/ruby/gems/2.4.0 \
